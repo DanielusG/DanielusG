@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 I am DanielusG
+- I am Daniele Carriere and I am studying to become a software engineer and expert in artificial intelligence!🤖
+- I am currently studying at the Politecnico di Bari 🏛️
 
-<!--
-**DanielusG/DanielusG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">My stats</h3>
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielusG&label=Profile%20views&color=0e75b6&style=flat" alt="DanielusG" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DanielusG&show_icons=true&locale=en&count_private=true" alt="DanielusG" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielusG&show_icons=true&locale=en&layout=donuts" alt="DanielusG" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielusG&" alt="DanielusG" /></p>
