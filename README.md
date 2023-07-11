@@ -9,10 +9,10 @@
 
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=DanielusG&show_icons=true&locale=en&count_private=true" alt="DanielusG" />
+<img align="left" src="https://vercel-host-virid.vercel.app/api?username=DanielusG&show_icons=true&locale=en&count_private=true" alt="DanielusG" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DanielusG&" alt="DanielusG" />
   
-[![DanielusG's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanielusG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![DanielusG's wakatime stats](https://vercel-host-virid.vercel.app/api/wakatime?username=DanielusG&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </p>
 
